@@ -1,0 +1,16 @@
+F:\CsharpCode\leetcode.csharp\bin\Debug\net5.0\leetcode.csharp.exe
+F:\CsharpCode\leetcode.csharp\bin\Debug\net5.0\leetcode.csharp.deps.json
+F:\CsharpCode\leetcode.csharp\bin\Debug\net5.0\leetcode.csharp.runtimeconfig.json
+F:\CsharpCode\leetcode.csharp\bin\Debug\net5.0\leetcode.csharp.runtimeconfig.dev.json
+F:\CsharpCode\leetcode.csharp\bin\Debug\net5.0\leetcode.csharp.dll
+F:\CsharpCode\leetcode.csharp\bin\Debug\net5.0\leetcode.csharp.pdb
+F:\CsharpCode\leetcode.csharp\obj\Debug\net5.0\leetcode.csharp.csproj.AssemblyReference.cache
+F:\CsharpCode\leetcode.csharp\obj\Debug\net5.0\leetcode.csharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\CsharpCode\leetcode.csharp\obj\Debug\net5.0\leetcode.csharp.AssemblyInfoInputs.cache
+F:\CsharpCode\leetcode.csharp\obj\Debug\net5.0\leetcode.csharp.AssemblyInfo.cs
+F:\CsharpCode\leetcode.csharp\obj\Debug\net5.0\leetcode.csharp.csproj.CoreCompileInputs.cache
+F:\CsharpCode\leetcode.csharp\obj\Debug\net5.0\leetcode.csharp.dll
+F:\CsharpCode\leetcode.csharp\obj\Debug\net5.0\refint\leetcode.csharp.dll
+F:\CsharpCode\leetcode.csharp\obj\Debug\net5.0\leetcode.csharp.pdb
+F:\CsharpCode\leetcode.csharp\obj\Debug\net5.0\leetcode.csharp.genruntimeconfig.cache
+F:\CsharpCode\leetcode.csharp\obj\Debug\net5.0\ref\leetcode.csharp.dll

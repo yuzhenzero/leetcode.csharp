@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ml5vO0eQJtW2J/Emv52YuW0AT0MY+utMuD9gCUKCddouh8XB9rz3bhZ2t0+Iw58XFKjQHyvnw4rdiktfgQf+RQ==",
+  "success": true,
+  "projectFilePath": "F:\\CsharpCode\\leetcode.csharp\\leetcode.csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yuzhe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
