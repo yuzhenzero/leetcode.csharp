@@ -27,16 +27,16 @@ namespace leetcode.csharp
             }
         }
 
-        public static void Main(string[] args)
-        {
-            Subset subset = new Subset();
-            int[] nums = {1, 2, 3};
-            var res = subset.Subsets(nums);
-            Console.WriteLine(nums);
-            foreach (var list in res)
-            {
-                Console.WriteLine(string.Join(",", list));
-            }
-        }
+        // public static void Main(string[] args)
+        // {
+        //     Subset subset = new Subset();
+        //     int[] nums = {1, 2, 3};
+        //     var res = subset.Subsets(nums);
+        //     Console.WriteLine(nums);
+        //     foreach (var list in res)
+        //     {
+        //         Console.WriteLine(string.Join(",", list));
+        //     }
+        // }
     }
 }
