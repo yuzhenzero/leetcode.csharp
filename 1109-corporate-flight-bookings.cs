@@ -29,15 +29,15 @@ namespace leetcode.csharp
 
             return res;
         }
-        static void Main(string[] args)
-        {
-            Solution1109 s = new Solution1109();
-            int[][] bookings = new int[][] { new int[] { 1, 2, 10 }, new int[] { 2, 3, 20 }, new int[] { 2, 5, 25 } };
-            int[] res = s.CorpFlightBookings(bookings, 5);
-            foreach (var i in res)
-            {
-                System.Console.WriteLine(i);
-            }
-        }
+        // static void Main(string[] args)
+        // {
+        //     Solution1109 s = new Solution1109();
+        //     int[][] bookings = new int[][] { new int[] { 1, 2, 10 }, new int[] { 2, 3, 20 }, new int[] { 2, 5, 25 } };
+        //     int[] res = s.CorpFlightBookings(bookings, 5);
+        //     foreach (var i in res)
+        //     {
+        //         System.Console.WriteLine(i);
+        //     }
+        // }
     }
 }
