@@ -72,15 +72,15 @@ namespace leetcode.csharp
             }
         }
 
-        static void Main(string[] args)
-        {
-            Solution76 sol = new();
-            string s = "ADOBECODEBANC";
-            string t = "ABC";
+        // static void Main(string[] args)
+        // {
+        //     Solution76 sol = new();
+        //     string s = "ADOBECODEBANC";
+        //     string t = "ABC";
 
-            string res = sol.MinWindow(s, t);
-            System.Console.WriteLine(res);
+        //     string res = sol.MinWindow(s, t);
+        //     System.Console.WriteLine(res);
 
-        }
+        // }
     }
 }
