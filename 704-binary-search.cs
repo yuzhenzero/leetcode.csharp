@@ -31,12 +31,12 @@ namespace leetcode.csharp
             return -1;
         }
 
-        static void Main(string[] args)
-        {
-            int[] nums = { -1, 0, 3, 5, 9, 12 };
-            int target = 9;
-            Solution704 s = new();
-            System.Console.WriteLine(s.Search(nums, target));
-        }
+        // static void Main(string[] args)
+        // {
+        //     int[] nums = { -1, 0, 3, 5, 9, 12 };
+        //     int target = 9;
+        //     Solution704 s = new();
+        //     System.Console.WriteLine(s.Search(nums, target));
+        // }
     }
 }
